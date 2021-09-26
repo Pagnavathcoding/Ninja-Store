@@ -205,7 +205,7 @@ function Keyboard() {
     }
     return (
         <section className="keyboard">
-            <h3>NinjaStore &gt; Phone</h3>
+            <h3>NinjaStore &gt; Keyboard</h3>
             <div className="keyboard-products">
                 {
                     filtered.map((data) => {
